@@ -1,0 +1,6 @@
+{
+  "name": "Multilogin Profile & Task Manager",
+  "description": "Manage multiple antidetect browser profiles and cloud phones securely with advanced fingerprint masking, proxy routing, and task automation tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
